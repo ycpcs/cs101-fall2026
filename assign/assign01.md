@@ -145,7 +145,24 @@ To submit your program, make sure your **Projectile.cpp** file is saved, and in 
 
 Enter your Marmoset username and password (which you should have received by email.) Note that your password will not be echoed to the screen. Make sure that after you enter your username and password, you see a message indicating that the submission was successful.
 
-Make sure that you check the file(s) you submitted to ensure that they are correct.  See the instructions for [Verifying your submission](../submitting.html#verifying-your-submission).
+If successful, you should see
+
+<pre>
+######################################################################
+              >>>>>>>> Successful submission! <<<<<<<<<
+
+Make sure that you log into the marmoset server to manually
+check that the files you submitted are correct.
+
+Details:
+
+         Semester:   Fall 2026
+         Course:     CS 101
+         Assignment: assign01
+
+######################################################################
+</pre>
+
 
 <div class="callout">
 <b>Important</b>: It is your responsibility to verify that you submitted the correct files.  You may receive a grade of 0 for incorrectly submitted work.
