@@ -7,18 +7,15 @@ title: Syllabus
 
 <div id="subtitle">Fundamentals of Computer Science I</div>
 
-**Fall 2024**
+**Fall 2026**
 
-Instructor(s): 
-- 102 (9:30am) - Prof. Deepti Jindal <djindal@ycp.edu>
-- 103 (11:00am) - Dr. Joe Villani, <jvillani@ycp.edu>
-- 101 (2:00pm) - Dr. David Babcock, <dbabcock@ycp.edu>
+Instructor: 
+- Dr. Dian Chen, <dchen3@ycp.edu>, Office KEC 110
 
 > Section(s) | Instructor | Office hours
 > ---------- | ---------- | ------------
-> 102 (9:30-10:45AM KEC123) | Deepti Jindal, <djindal@ycp.edu> | by appointment
-> 103 (11:00-12:15AM KEC123) | Joe Villani, <jvillani@ycp.edu> | by appointment
-> 101 (2:00-3:15PM KEC123) | David Babcock <dbabcock@ycp.edu> KEC 117 | M 11am-1pm, T 9:30-11am, W 1-2pm, R 9:30-11am, or by appointment
+> 101 (11:00 AM - 12:15 PM KEC xxx) | Dian Chen, <dchen3@ycp.edu> | M X, T X,..., or by appointment
+> 102 (12:30 PM - 1:45 PM KEC xxx) | Dian Chen, <dchen3@ycp.edu> | M X, T X, ... , or by appointment
 
 Course description
 ------------------
