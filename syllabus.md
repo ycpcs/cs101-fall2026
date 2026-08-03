@@ -90,7 +90,7 @@ The grading scale for the course is given below. Please note that this grading s
 
 ### Course website
 
-Please check the course web page, <https://ycpcs.github.io/cs101-fall2024/>, regularly for important announcements.
+Please check the course web page, <https://ycpcs.github.io/cs101-fall2026/>, regularly for important announcements.
 
 ### Reading assignments
 
