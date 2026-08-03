@@ -3,7 +3,7 @@ layout: default
 title: Home page
 ---
 
-# CS 101, Fall 2024
+# CS 101, Fall 2026
 
 <div id="subtitle">Fundamentals of Computer Science I</div>
 
