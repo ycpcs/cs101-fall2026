@@ -94,7 +94,7 @@ Please check the course web page, <https://ycpcs.github.io/cs101-fall2026/>, reg
 
 ### Reading assignments
 
-It is **strongly** recommended that you look over the material for each day **before** coming to class, see [Course Schedule](schedule.html).
+It is **strongly** recommended that you look over the material for each day **before** coming to class; see [Course Schedule](schedule.html).
 
 ### Posting and submission of assignments and labs
 
@@ -110,7 +110,7 @@ Assignments may be submitted up to two days late, with a penalty of 20% per day 
 
 ### Homework policy
 
-Programming assignments will be assigned periodically. Discussing programming assignments with other students is acceptable and encouraged **only for high level conceptual design**. You must **write and understand all of the code you include in your program**. Verbatim copying of someone else's code (including electronic transmission or using code from websites) is **STRICTLY FORBIDDEN** under any circumstances. You must actively contribute to the process of understanding and solving the problem posed in the homework assignment. Tutoring will be available if you need assistance in writing code.
+Programming assignments will be assigned periodically. Discussing programming assignments with other students is acceptable and encouraged **only for high-level conceptual design**. You must **write and understand all of the code you include in your program**. Verbatim copying of someone else's code (including electronic transmission or using code from websites) is **STRICTLY FORBIDDEN** under any circumstances. You must actively contribute to the process of understanding and solving the problem posed in the homework assignment. Tutoring will be available if you need assistance in writing code.
 
 When you collaborate with another student, you **must** add comments to the code you turn in stating
 
@@ -130,9 +130,9 @@ Violations of the policy, such as failing to cite collaborators or electronic co
 
 ### Exams
 
-**Exams will be closed-book, closed-notes and will include a programming component. The programming portion must be done on the lab computers.**
+**Exams will be closed-book, closed-notes, and will include a programming component. The programming portion must be done on the lab computers.**
 
-**No make-up exams will be given without approval of the instructor prior to class unless proof of extreme emergency or illness is provided.**
+**No make-up exams will be given without approval of the instructor before class unless proof of extreme emergency or illness is provided.**
 
 **You must receive a score of 70+ on AT LEAST ONE exam and an overall exam average of 60 or higher to earn a passing grade for the course.**
 
@@ -145,11 +145,11 @@ Students will work on labs during most class meetings.
 To receive credit for a lab, you must:
 
 * Get a sign-off for completing the lab's design artifact; make sure you have this at the beginning of class on the day we work on the lab
-* Get a sign-off on the completed program; full credit if you get this sign off by the end of the *next* week (after the day we work on the lab), 80% of full credit if you get the sign-off before the next exam, and **no credit** after the exam.
+* Get a sign-off on the completed program; full credit if you get this sign-off by the end of the *next* week (after the day we work on the lab), 80% of full credit if you get the sign-off before the next exam, and **no credit** after the exam.
 
 ### Attendance and participation
 
-**Do not miss class!**  If you do not attend class, show significant effort on the lab assignment by the end of the day, or if you are seen doing non-lab activities before finishing a lab, you will be considered absent. The first absence will result in a 1 percentage point deduction from your final grade. The total percentage point deduction for 2 or greater absences will be calculated using the following formula:
+**Do not miss class!**  If you do not attend class, show significant effort on the lab assignment by the end of the day, or if you are seen doing non-lab activities before finishing a lab, you will be considered absent. The first absence will result in a 1 percentage point deduction from your final grade. The total percentage point deduction for 2 or more absences will be calculated using the following formula:
 
 > 2<sup>(<i>absences</i> - 1)</sup>
 
@@ -174,7 +174,7 @@ I reserve the right to enforce this code through the York College Code of Studen
 
 ### Academic Integrity Policy (Philosophy Statement)
 
-For the full policy, go the the Academic Standards section of the current Course Catalog [https://www.ycp.edu/about-us/offices-and-departments/registrar/catalogs/](https://www.ycp.edu/about-us/offices-and-departments/registrar/catalogs/).
+For the full policy, go to the Academic Standards section of the current Course Catalog [https://www.ycp.edu/about-us/offices-and-departments/registrar/catalogs/](https://www.ycp.edu/about-us/offices-and-departments/registrar/catalogs/).
 
 York College of Pennsylvania, as an institution of higher education, serves to promote and sustain the creation, acquisition, and dissemination of knowledge.  In order to fulfill this purpose, an environment of integrity, dependability and honesty must be maintained by all members of the York College community.  Without a foundation based on intellectual honesty and integrity, the very ability to uphold the academic endeavors that York College strives to pursue is inhibited.
   
@@ -203,8 +203,8 @@ If at any point you are unsure whether something is allowed under the academic i
 
 The following policy pertains specifically to all graded work in this course:
 
--   All graded (individual) assignments are to be completed individually. I encourage you to discuss high level concepts with other students, but any work you submit **must be yours alone**.
--   Direct copying of solutions or work from other students, web sites, or other sources **is absolutely forbidden under any circumstances**.
+-   All graded (individual) assignments are to be completed individually. I encourage you to discuss high-level concepts with other students, but any work you submit **must be yours alone**.
+-   Direct copying of solutions or work from other students, websites, or other sources **is absolutely forbidden under any circumstances**.
 -   Any sources (books, websites, articles, fellow students, etc.), except for the course textbook and lecture notes, that you consult in completing an assignment **must be properly acknowledged**. In general, I strongly discourage you from using any resource not explicitly listed in the course syllabus or on the course web page but rather asking the instructor or tutors for assistance.
 -   **Exams must be completed individually using only the resources from the course.**
 
