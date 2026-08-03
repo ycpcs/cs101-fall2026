@@ -9,15 +9,15 @@ Student tutors will be available both in class (during lab activities) and in ev
 
 ## Evening sessions
 
-Monday, Tuesday, and Wednesday evening drop-in hours are 6:00-8:00 PM, in KEC 119.
+Monday, Tuesday, and Wednesday evening drop-in hours are 6:00-8:00 PM, in KEC 119. 
 
 **Important**: Be aware that the evening sessions can be very busy close to an assignment deadline.  Your best bet is to *start assignments early* and *ask questions early* to avoid the rush.
 
 The evening tutors are:
 
-* Monday    (6:00-8:00):  Prabh Kandola, Zach Cox
-* Tuesday   (6:00-8:00):  Emily Culp, Roman Stump
-* Wednesday (6:00-8:00):  Zach Cox, Prabh Kandola, Logan Kinzler, Emily Culp
+* Monday    (6:00-8:00):  TBD
+* Tuesday   (6:00-8:00):  TBD
+* Wednesday (6:00-8:00):  TBD
 
 <!--  
 **Tutoring is available Monday-Thursday from 6:30-8:30pm in KEC119.** Please be sure to *sign-in* if you attend a tutoring session so we can track how many students are using the tutors.
@@ -40,9 +40,8 @@ Once you have demonstrated that you have a viable design and strategy for the pr
 
 The in-class tutors are:
 
-* Section 101 (Snyder - KEC119),  8:00-9:15):  Jason Constantine, Patrick Nelson
-* Section 102 (Snyder - KEC119), 10:00-11:15): Joel Horne(W,F), Josh Gross(W), Andrew Georgiou(F)
-* Section 103 (Hake - KEC123),    8:00-9:15):  Alyssa McDevitt, Madison Tibbett 
+* Section 101 (Snyder - KEC119),  11:00-12:15):  TBD
+* Section 102 (Snyder - KEC119), 12:30-1:45): TBD
 
 ## Evening sessions
 
@@ -52,11 +51,10 @@ Monday, Tuesday, Wednesday, and Thursday evening drop-in hours are 6:00-8:30 PM,
 
 The evening tutors are:
 
-* Monday    (6:00-8:30):  Jason Constantine, Andrew Georgiou 
-* Tuesday   (6:00-8:30):  Joel Horne, Johnny Quinteros
-* Wednesday (6:00-8:30):  Alyssa McDevitt, Patrick Nelson
-* Thursday  (6:00-8:30):  Joel Horne, Johnny Quinteros
-
+* Monday    (6:00-8:30):  TBD
+* Tuesday   (6:00-8:30):  TBD
+* Wednesday (6:00-8:30):  TBD
+* Thursday  (6:00-8:30):  TBD
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
 <!-- vim:set nolist: -->
