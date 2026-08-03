@@ -145,7 +145,7 @@ To submit your program, make sure your **Projectile.cpp** file is saved, and in 
 
 Enter your Marmoset username and password (which you should have received by email.) Note that your password will not be echoed to the screen. Make sure that after you enter your username and password, you see a message indicating that the submission was successful.
 
-If successful, you should see
+If successful, you should see something like:
 
 <pre>
 ######################################################################
