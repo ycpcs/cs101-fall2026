@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 1: Projectile Motion"
 ---
 
-Design due: **Thursday, Sept 5th** at the beginning of class
+Design due: **Thursday, Sept 3th** at the beginning of class
 
-Program due: **Wednesday, Sept 11th by 11:59 PM**
+Program due: **Wednesday, Sept 9th by 11:59 PM**
 
 Getting Started
 ===============
@@ -33,7 +33,7 @@ Your Tasks
 
 Based on the requirements described below in the "Program" section, fill out a [design template](../design-template.pdf).  Consider what the input and output of the program are, and what steps are necessary to compute the output from the input.
 
-The design is due at the beginning of class on **Thursday, Sept 5th**.
+The design is due at the beginning of class on **Thursday, Sept 3th**.
 
 ## Program
 
