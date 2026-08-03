@@ -116,7 +116,7 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Fall 2024
+         Semester:   Fall 2026
          Course:     CS 101
          Assignment: lab01
 
