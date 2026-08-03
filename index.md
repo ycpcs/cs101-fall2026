@@ -22,8 +22,10 @@ Welcome to the website for CS 101, Fundamentals of Computer Science I, at York C
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 * [Practice Exams](practice/index.html)
 
+
 ## News
-* **Aug 27** &mdash; Welcome back! Please read [How to succeed in CS 101](success.html).
+* **Aug 25** &mdash; Welcome! Please read [How to succeed in CS 101](success.html).
+<!--
 * **Sept 5** &mdash; [Assignment 1](assign/assign01.html) **Design Artifact Due in class.**
 * **Sept 11** &mdash; [Assignment 1](assign/assign01.html) **Code Due to** [Marmoset](https://cs.ycp.edu/marmoset) **by 11:59pm**.
 * **Sept 17** &mdash; [Assignment 2 Milestone 1](assign/assign02.html) **Milestone 1 Design Artifact Due in class.**
@@ -41,7 +43,7 @@ Welcome to the website for CS 101, Fundamentals of Computer Science I, at York C
 * **Nov 22** &mdash; [Assignment 6 Milestone 1](assign/assign06.html) **Milestone 1 Code Due to** [Marmoset](https://cs.ycp.edu/marmoset) **by 11:59pm**.
 * **Dec 5** &mdash; **EXAM 3**
 * **Dec 6** &mdash; [Assignment 6 Milestone 2](assign/assign06.html) **Milestone 2 Code Due to** [Marmoset](https://cs.ycp.edu/marmoset) **by 11:59pm**.
-
+-->
 
 <!--
 * **May 7** &mdash; **(11am Section 101) 10:15am-12:15pm FINAL EXAM**
