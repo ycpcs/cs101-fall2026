@@ -11,7 +11,7 @@ Introductory programming courses (such as this course, CS 101) [typically have a
 
 But don't panic!  You can and will succeed if you approach this course the right way.  This document explains how.
 
-This document has two parts: *philosophy* and *practice*.
+This document has three parts: *philosophy*, *practice*, and *attitude*.
 
 # Part 1: Philosophy
 
