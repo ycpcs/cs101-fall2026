@@ -3,7 +3,7 @@ layout: default
 title: "How to succeed in CS 101"
 ---
 
-This document explains how to succeed in CS 101.  Please read this carefully, and refer back to it as you proceed in the course!
+This document explains how to succeed in CS 101.  Please read this carefully and refer back to it as you proceed in the course!
 
 # Why we wrote this
 
@@ -19,9 +19,9 @@ This section explains what you should be thinking about as you take this course.
 
 ## Have a growth mindset
 
-A common misconception about computer programming is that there is some innate factor&mdash;the "geek gene"&mdash;that allows only some people to be good at it.  Don't believe this!  As with all skills, *proficiency at computer programming is the result of sustained and deliberate practice*.
+A common misconception about computer programming is that there is some innate factor&mdash; the "geek gene"&mdash; that allows only some people to be good at it.  Don't believe this!  As with all skills, *proficiency at computer programming is the result of sustained and deliberate practice*.
 
-Using the terminology of psychologist [Carol Dweck](http://psychology.stanford.edu/~dweck/), the "geek gene" misconception is an example of the "fixed" mindset.  Success stems from adopting the "growth" mindset, which is a belief that your pontential is not predetermined, and that through hard work, critical self-awareness, and discipline, anyone can become more successful.  Dweck's work has shown definitively that adopting a growth mindset leads to better outcomes.
+Using the terminology of psychologist [Carol Dweck](http://psychology.stanford.edu/~dweck/), the "geek gene" misconception is an example of the "fixed" mindset.  Success stems from adopting the "growth" mindset, which is a belief that your potential is not predetermined, and that through hard work, critical self-awareness, and discipline, anyone can become more successful.  Dweck's work has shown definitively that adopting a growth mindset leads to better outcomes.
 
 One important aspect of adopting a growth mindset is always being aware of opportunities for improvement.  There is *always* more to learn.
 
@@ -45,7 +45,7 @@ Let's say that you are writing a program, and it doesn't work the way you expect
 
 ## Be playful
 
-Programming proficiency involves inventing and implementing algorithms to solve arbitrary problems.  In this course, you will writing programs to solve a wide variety of problems.  Creativity, inventiveness, playfulness&mdash;these are the techniques that will enable you to find solutions to the problems you will be given.  *There is no "right" solution to any problem.*  The more you are able to use your imagination to come up with potential solutions to a problem, the better your chances of finding a workable approach will be.
+Programming proficiency involves inventing and implementing algorithms to solve arbitrary problems.  In this course, you will write programs to solve a wide variety of problems.  Creativity, inventiveness, playfulness&mdash; these are the techniques that will enable you to find solutions to the problems you will be given.  *There is no "right" solution to any problem.*  The more you are able to use your imagination to come up with potential solutions to a problem, the better your chances of finding a workable approach will be.
 
 ## Focus on *learning*
 
@@ -55,7 +55,7 @@ In education, success is *learning*.  If, as a result of working through the mat
 
 One reason it's important to stay focused on learning is that thinking about grades may tempt you to take shortcuts.  For example, [the syllabus](syllabus.html) allows collaboration on the programming assignments.  You could "complete" a programming assignment by copying someone else's work, without learning from the experience of doing the assignment.  This is not a good strategy, and it is likely to get you into trouble.
 
-Please note that we're not saying that grades aren't important.  Grades are a rough indication of achievement.  However, we want you understand that if you learn effectively, good grades will follow, and that your odds of getting a good grade *without* learning are negligible.
+Please note that we're not saying that grades aren't important.  Grades are a rough indication of achievement.  However, we want you to understand that if you learn effectively, good grades will follow, and that your odds of getting a good grade *without* learning are negligible.
 
 ## Be careful about how you ask for help
 
@@ -67,7 +67,7 @@ Always keep in mind that you are accountable for learning and understanding all 
 
 ## Don't expect this to be like your other courses
 
-In your career as a student, you may have taken courses where you were able to satisify the course requirements by memorizing facts and then reiterating them on exams and assignments.
+In your career as a student, you may have taken courses where you were able to satisfy the course requirements by memorizing facts and then reiterating them on exams and assignments.
 
 *Memorization is not a useful strategy for this course.*  Programming consists of analyzing a problem, inventing an algorithm to solve the problem, and then writing a program to implement the algorithm.  The process is both analytical and creative.  You will need to know some facts, such as language syntax, but you should know these facts as a result of hard-earned experience, not memorization.
 
@@ -75,33 +75,33 @@ In your career as a student, you may have taken courses where you were able to s
 
 You may notice that the student population in this course is skewed in terms of gender, races and ethnicities, sexual identity, etc.
 
-You should understand that you do not represent a "group": you are just you.  You should also be aware that your fellow students also represent only themselves, and it should go without saying that everyone is entitled to respect.  Finally, however you identify yourself, your opportunity to succeed is exactly the same as anyone else's.  Ability to learn and succeed is not in any way related to gender, race, etc.
+You should understand that you do not represent a "group": you are just you.  You should also be aware that your fellow students also represent only themselves, and it should go without saying that everyone is entitled to respect.  Finally, however you identify yourself, your opportunity to succeed is exactly the same as anyone else's.  The ability to learn and succeed is not in any way related to gender, race, etc.
 
 # Part 2: Practice
 
 This section describes some practices you should adopt in order to be successful in the course.
 
-*Attend class*.  We will use our class time for group design critiques as well as hands-on lab activities.  Class time is also a great time to ask questions (good questions, of course.)
+*Attend class*.  We will use our class time for group design critiques as well as hands-on lab activities.  Class time is also a great time to ask questions (good questions, of course)
 
-*Prepare for class*.  Do the reading and the [CloudCoder exercises](schedule.html) before you come to class.  Complete the [design artifact](design/index.html) for the lab, and the design artifact for the assignment if one is due.
+*Prepare for class*.  Do the reading before you come to class.  Complete the [design artifact](design/index.html) for the lab, and the design artifact for the assignment if one is due.
 
-*Start the lab before class*. Before you come to class, you should read the lab description carefully and complete the design artifact for the lab.  If you would like to start working on the code for the lab on your own (and perhaps finish it), that's even better.  Being prepared will allow you to ask good questions about the lab, and maximize your chance of receiving full credit for it.
+*Start the lab before class*. Before you come to class, you should read the lab description carefully and complete the design artifact for the lab.  If you would like to start working on the code for the lab on your own (and perhaps finish it), that's even better.  Being prepared will allow you to ask good questions about the lab and maximize your chance of receiving full credit for it.
 
-*Practice*.  The way you will become a proficient programmer is through sustained and deliberate practice.  We provide you opportunities to practice in the form of [CloudCoder exercises](schedule.html), [labs](labs/index.html), and [assignments](assign/index.html).  The schedule also has recommended exercises from the textbook.  Take advantage of every opportunity to practice that you can find!
+*Practice*.  The way you will become a proficient programmer is through sustained and deliberate practice.  We provide you opportunities to practice in the form of [labs](labs/index.html) and [assignments](assign/index.html).  The schedule also has recommended exercises from the textbook.  Take advantage of every opportunity to practice that you can find!
 
 *Be responsible for your individual learning*.  Although you are encouraged to collaborate on labs and assignments, make sure that you fully understand what you are doing.  Don't just copy other people's code.
 
-**START ASSIGNMENTS EARLY**.  The best way to complete a programming assignment is to start them early, and then work incrementally, making steady progress towards completion of the assignment's requirements.  If you waiting until the last minute, you are denying yourself the opportunity to maximize your learning experience.
+**START ASSIGNMENTS EARLY**.  The best way to complete a programming assignment is to start it early, and then work incrementally, making steady progress towards completion of the assignment's requirements.  If you are waiting until the last minute, you are denying yourself the opportunity to maximize your learning experience.
 
-*Put in the time.*  A *minimum* expectation for college courses are that you should spend two hours outside of class for every hour in class.  For CS 101, it is very possible that you will need *more* than six hours per week outside of class to keep up.
+*Put in the time.*  A *minimum* expectation for college courses is that you should spend two hours outside of class for every hour in class.  For CS 101, it is very possible that you will need *more* than six hours per week outside of class to keep up.
 
 # Part 3: Attitude
 
 ## Completing Tasks vs. Learning Skills
 
-It is beneficial to students to mentally distinguish between learning a skill and completing a task. When completing a task, success is measured by the result given. How good of a project is this submission? However, completing a task does not fully represent whether the task can be repeated again successfully. If a student completes a task without learning how to do it, they may not be able to do it a second time. Competing tasks and learning skills are important, and are related to each other, but both must be accomplished for a successful education of the topic. If your approach is based only on competing tasks, such as using Stack Overflow, ChatGPT, etc. to complete tasks without learning how to replicate the work you may not learn fully.
+It is beneficial to students to mentally distinguish between learning a skill and completing a task. When completing a task, success is measured by the result given. How good of a project is this submission? However, completing a task does not fully represent whether the task can be repeated successfully. If a student completes a task without learning how to do it, they may not be able to do it a second time. Completing tasks and learning skills are important and are related to each other, but both must be accomplished for a successful education on the topic. If your approach is based only on completing tasks, such as using Stack Overflow, ChatGPT, etc., to complete tasks without learning how to replicate the work, you may not learn fully.
 
-By separating tasks from learning skills, both can be covered separately. You are instructed to complete tasks, with the hope that completing them will result in learning, but only if you have a skill based mindset. Only then will you be able to demonstrate learning by having the ability to complete a task without help. 
+By separating tasks from learning skills, both can be covered separately. You are instructed to complete tasks, with the hope that completing them will result in learning, but only if you have a skill-based mindset. Only then will you be able to demonstrate learning by having the ability to complete a task without help. 
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
