@@ -3,7 +3,7 @@ layout: default
 title: "Lecture 1: printf, scanf, int variables"
 ---
 
-**The slides used in today's lecture will be posted here after class: [slides](slides/L0.pdf)**
+**The slides used in today's lecture will be posted here after class: [slides](slides/L1.pdf)**
 
 A First C Program
 =================
