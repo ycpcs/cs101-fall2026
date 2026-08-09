@@ -16,8 +16,8 @@ Instructor:
 
 > Section(s) | Classroom 
 > ---------- | ------------ 
-> 101 (11:00 AM - 12:15 PM) | KEC 123
-> 102 (12:30 PM - 1:45 PM) | KEC 123 
+> 101 (Tue/Thu 11:00 AM - 12:15 PM) | KEC 123
+> 102 (Tue/Thu 12:30 PM - 1:45 PM) | KEC 123 
 
 Course description
 ------------------
