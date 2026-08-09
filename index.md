@@ -9,7 +9,7 @@ title: Home page
 
 Welcome to the website for CS 101, Fundamentals of Computer Science I, at York College.  All information about the course will be posted here.
 
-**Use the course website for all activities. Canvas is only for announcements and assignment deadlines, so you don’t miss important dates.
+**Use the course website for all activities. Canvas is only for announcements and assignment deadlines, so you don’t miss important dates.**
 
 ## Links
 
