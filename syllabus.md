@@ -14,10 +14,10 @@ Instructor:
 - Office hours: KEC 110 - Tue 2:00–3:30 PM, Thu 2:00–3:30 PM, or by appointment
 
 
-> Section(s) | Classroom 
-> ---------- | ------------ 
-> 101 (Tue/Thu 11:00 AM - 12:15 PM) | KEC 123
-> 102 (Tue/Thu 12:30 PM - 1:45 PM) | KEC 123 
+> Section(s) | Days | Classroom 
+> ---------- | ------------ | ------------ 
+> 101 (11:00 AM - 12:15 PM) | Tue/Thu | KEC 123
+> 102 (12:30 PM - 1:45 PM) | Tue/Thu | KEC 123 
 
 Course description
 ------------------
