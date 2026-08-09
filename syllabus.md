@@ -11,11 +11,13 @@ title: Syllabus
 
 Instructor: 
 - Dr. Dian Chen, <dchen3@ycp.edu>, Office KEC 110
+- Office hours: Tue 2:00–3:30 PM, Thu 2:00–3:30 PM, or by appointment
 
-> Section(s) | Instructor | Classroom | Office hours
-> ---------- | ---------- | ------------ | ------------
-> 101 (11:00 AM - 12:15 PM) | Dian Chen, <dchen3@ycp.edu> | KEC 123 | M X, T X,..., or by appointment
-> 102 (12:30 PM - 1:45 PM) | Dian Chen, <dchen3@ycp.edu> | KEC 123 | M X, T X, ... , or by appointment
+
+> Section(s) | Classroom 
+> ---------- | ------------ 
+> 101 (11:00 AM - 12:15 PM) | KEC 123
+> 102 (12:30 PM - 1:45 PM) | KEC 123 
 
 Course description
 ------------------
