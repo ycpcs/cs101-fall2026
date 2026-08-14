@@ -3,7 +3,8 @@
 courseInfo.classPeriods = [
 	{
 		topic: new Topic("How To Succeed in CS101", "success.html", "Week1", ["hello*",],[
-"https://cs.ycp.edu/cloudcoder/#exercise?c=36,p=1966"])
+"https://cs.ycp.edu/cloudcoder/#exercise?c=36,p=1966"]),
+		lab: new NumberedLab(0, "Hello World Setup")
 	},
 	{
 		topic: new DoubleTopic("Lecture 1: printf, scanf, int variables", "lectures/lecture01.html", "Lecture 2: More data types, expressions", "lectures/lecture02.html", "Week2",["it goes to 11*","how many tacos?", "What day is it?", "hamster years*", "F to C*", "Mmmm, piece of candy!*","Cost of lunch"],[
