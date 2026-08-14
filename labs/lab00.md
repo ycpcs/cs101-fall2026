@@ -18,21 +18,21 @@ Once the cygwin bash shell has started, type the following commands, pressing th
     mkdir -p CS101
     cd CS101
 
-**(2)** Using a web browser, download [CS101\_Lab01.zip](CS101_Lab01.zip). Save the zip file in the **CS101** directory within your home directory.
+**(2)** Using a web browser, download [CS101\_Lab00.zip](CS101_Lab00.zip). Save the zip file in the **CS101** directory within your home directory.
 
 **(3)** Using Windows File Explorer, navigate to your **CS101** directory on your **H:** drive and right click on the **CS101\_Lab01.zip** file and select **Extract All**. This should create a subdirectory named **CS101\_Lab01** that contains the lab files. 
 
-**NOTE:** If there is another **CS101\_Lab01** subdirectory inside the **CS101\_Lab01** subdirectory, move the files to the outer **CS101\_Lab01** subdirectory and delete the inner one.
+**NOTE:** If there is another **CS101\_Lab00** subdirectory inside the **CS101\_Lab00** subdirectory, move the files to the outer **CS101\_Lab00** subdirectory and delete the inner one.
 
-**(4)** In cygwin, navigate into the **CS101\_Lab01** directory containing the lab files:
+**(4)** In cygwin, navigate into the **CS101\_Lab00** directory containing the lab files:
 
-    cd CS101_Lab01
+    cd CS101_Lab00
     
 You will know you are in the correct subdirectory if the command
 
     ls
     
-shows the **hello.cpp** file (and others such as **Makefile**). **IF** it shows another **CS101\_Lab01** directory, refer to the note above in step 3.
+shows the **hello.cpp** file (and others such as **Makefile**). **IF** it shows another **CS101\_Lab00** directory, refer to the note above in step 3.
 
 **(5)** Start **Notepad++**.
 
@@ -44,23 +44,19 @@ Once your text editor has started, choose **File&rarr;Open** from the menu, and 
 
 > **hello.cpp**
 
-on your **H:** drive in the **CS101** directory and **CS101\_Lab01** subdirectory.
+on your **H:** drive in the **CS101** directory and **CS101\_Lab00** subdirectory.
 
 Your Task
 =========
 
 Your task is to add a **main** function to the **hello.cpp** file to accomplish the following tasks:
 
-1.  Print the message **Hello, CS 101!** to the output window
-2.  Prompt the user for their age in years. Store the value entered by the user in an **int** variable.
-3.  Print the message **OK, you are N years old**, where *N* is the integer value entered by the user.
+1.  Print the message **Hello, World!** to the output window
 
 Here is an example run (user input in **bold**):
 
 <pre>
-Hello, CS 101!
-How old are you? <b>36</b>
-OK, you are 36 years old
+Hello, World!
 </pre>
 
 To compile the program (run the compiler to translate your C source code into an executable file), run the following command using the Cygwin bash shell:
@@ -83,10 +79,9 @@ Once the program is compiled, run the program by typing the following command in
 Hints
 =====
 
--   Put **#include &lt;stdio.h&gt;** at the top of **hello.cpp**. This will allow your progam to use the **printf** and **scanf** functions.
+-   Put **#include &lt;stdio.h&gt;** at the top of **hello.cpp**. This will allow your progam to use the **printf** functions.
 -   Use the **printf** function to print output to the screen.
--   Declare an **int** variable to store the user's age.
--   Use the **scanf** function to read the user's age.
+
 
 Submitting
 ==========
@@ -118,7 +113,7 @@ Details:
 
          Semester:   Fall 2026
          Course:     CS 101
-         Assignment: lab01
+         Assignment: lab00
 
 ######################################################################
 </pre>
