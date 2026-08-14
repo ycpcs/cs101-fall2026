@@ -20,7 +20,7 @@ Once the cygwin bash shell has started, type the following commands, pressing th
 
 **(2)** Using a web browser, download [CS101\_Lab00.zip](CS101_Lab00.zip). Save the zip file in the **CS101** directory within your home directory.
 
-**(3)** Using Windows File Explorer, navigate to your **CS101** directory on your **H:** drive and right click on the **CS101\_Lab01.zip** file and select **Extract All**. This should create a subdirectory named **CS101\_Lab01** that contains the lab files. 
+**(3)** Using Windows File Explorer, navigate to your **CS101** directory on your **H:** drive and right click on the **CS101\_Lab00.zip** file and select **Extract All**. This should create a subdirectory named **CS101\_Lab00** that contains the lab files. 
 
 **NOTE:** If there is another **CS101\_Lab00** subdirectory inside the **CS101\_Lab00** subdirectory, move the files to the outer **CS101\_Lab00** subdirectory and delete the inner one.
 
