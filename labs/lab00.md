@@ -53,7 +53,7 @@ Your task is to add a **main** function to the **hello.cpp** file to accomplish 
 
 1.  Print the message **Hello, World!** to the output window
 
-Here is an example run (user input in **bold**):
+Here is an example run:
 
 <pre>
 Hello, World!
