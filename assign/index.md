@@ -11,7 +11,7 @@ Code is due (<a href="../submitting.html">submitted to Marmoset</a>) by 11:59 PM
 
 Assignment | File | Due date(s)
 ---------- | ---- | -----------
-[Assignment 1: Projectile Motion](assign01.html) | [CS101\_Assign01\_Fa26.zip](CS101_Assign01_Fa24.zip) | Design: Thur, Sept 3rd<br>Code: Wed, Sept 9th
+[Assignment 1: Projectile Motion](assign01.html) | [CS101\_Assign01\_Fa26.zip](CS101_Assign01_Fa26.zip) | Design: Thur, Sept 3rd<br>Code: Wed, Sept 9th
 [Assignment 2: Calendar](assign02.html) | [CS101\_Assign02\_Fa26.zip](CS101_Assign02_Fa24.zip) | MS1 Design: Tues, Sept 15th<br>MS1 Code: Mon, Sept 21st<br>MS2 Design: Tues, Sept 22th<br>MS2 Code: Mon, Sept 28th
 [Assignment 3: Dominoes](assign03.html) | [CS101\_Assign03\_Fa26.zip](CS101_Assign03_Fa24.zip) | MS1 Code: Mon, Oct 5th<br>MS2 Design: Thur, Oct 8th<br>MS2 Code: Thur, Oct 15th
 [Assignment 4: Roulette](assign04.html) | [CS101\_Assign04\_Fa26.zip](CS101_Assign04_Fa24.zip) | Code: Mon, Oct 26th
