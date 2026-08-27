@@ -12,19 +12,19 @@ Getting Started
 
 Refer to [Lab 1](../labs/lab01.html) if you need a reminder about how to start **Cygwin Terminal** or **Notepad++**.
 
-Start by downloading [CS101\_Assign01\_Fa24.zip](CS101_Assign01_Fa24.zip), saving it in the directory **H:\\CS101**. Using Windows File Explorer, navigate to your **CS101** directory on your **H:** drive and right click on the **CS101\_Assign01\_Fa24.zip** file and select **Extract All**. This should create a subdirectory named **CS101\_Assign01\_Fa24** that contains the assignment files. 
+Start by downloading [CS101\_Assign01\_Fa26.zip](CS101_Assign01_Fa26.zip), saving it in the directory **H:\\CS101**. Using Windows File Explorer, navigate to your **CS101** directory on your **H:** drive and right click on the **CS101\_Assign01\_Fa26.zip** file and select **Extract All**. This should create a subdirectory named **CS101\_Assign01\_Fa26** that contains the assignment files. 
 
-**NOTE:** If there is another **CS101\_Assign01\_Fa24.zip** subdirectory inside the **CS101\_Assign01\_Fa24.zip** subdirectory, move the files to the outer **CS101\_Assign01\_Fa24.zip** subdirectory and delete the inner one.
+**NOTE:** If there is another **CS101\_Assign01\_Fa26.zip** subdirectory inside the **CS101\_Assign01\_Fa26.zip** subdirectory, move the files to the outer **CS101\_Assign01\_Fa26.zip** subdirectory and delete the inner one.
 
 Start a **Cygwin Terminal** and run the following commands:
 
     cd h:
     cd CS101
-    cd CS101_Assign01_Fa24
+    cd CS101_Assign01_Fa26
 
 Using **Notepad++**, open the file
 
-> **H:\\CS101\\CS101\_Assign01\_Fa24\\Projectile.cpp**
+> **H:\\CS101\\CS101\_Assign01\_Fa26\\Projectile.cpp**
 
 Your Tasks
 ==========
