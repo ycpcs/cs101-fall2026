@@ -15,9 +15,10 @@ Monday, Tuesday, and Wednesday evening drop-in hours are 6:00-8:00 PM, in KEC 11
 
 The evening tutors are:
 
-* Monday    (6:00-8:00):  TBD
-* Tuesday   (6:00-8:00):  TBD
-* Wednesday (6:00-8:00):  TBD
+- Monday: 6:00pm to 8:00pm in KEC119
+- Tuesday: 6:00pm to 8:00pm in KEC130 
+- Wednesday: 6:00pm to 8:00pm in KEC119
+- Thursday: 6:00pm to 8:00pm in KEC130 
 
 <!--  
 **Tutoring is available Monday-Thursday from 6:30-8:30pm in KEC119.** Please be sure to *sign-in* if you attend a tutoring session so we can track how many students are using the tutors.
