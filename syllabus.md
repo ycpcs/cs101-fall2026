@@ -17,7 +17,15 @@ Instructor:
 > Section(s) | Days | Classroom 
 > ---------- | ------------ | ------------ 
 > 101 (11:00 AM - 12:15 PM) | Tue/Thu | KEC 123
-> 102 (12:30 PM - 1:45 PM) | Tue/Thu | KEC 123 
+> 102 (12:30 PM - 1:45 PM) | Tue/Thu | KEC 123
+
+
+**Tutoring Sessions**
+
+- Monday: 6:00pm to 8:00pm in KEC119
+- Tuesday: 6:00pm to 8:00pm in KEC130 
+- Wednesday: 6:00pm to 8:00pm in KEC119
+- Thursday: 6:00pm to 8:00pm in KEC130 
 
 Course description
 ------------------
