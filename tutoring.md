@@ -9,16 +9,16 @@ Student tutors will be available both in class (during lab activities) and in ev
 
 ## Evening sessions
 
-Monday, Tuesday, and Wednesday evening drop-in hours are 6:00-8:00 PM, in KEC 119. 
-
-**Important**: Be aware that the evening sessions can be very busy close to an assignment deadline.  Your best bet is to *start assignments early* and *ask questions early* to avoid the rush.
-
-The evening tutors are:
+**The evening tutors are:**
 
 - Monday: 6:00pm to 8:00pm in KEC119
 - Tuesday: 6:00pm to 8:00pm in KEC130 
 - Wednesday: 6:00pm to 8:00pm in KEC119
 - Thursday: 6:00pm to 8:00pm in KEC130 
+
+**Important**: Be aware that the evening sessions can be very busy close to an assignment deadline.  Your best bet is to *start assignments early* and *ask questions early* to avoid the rush.
+
+
 
 <!--  
 **Tutoring is available Monday-Thursday from 6:30-8:30pm in KEC119.** Please be sure to *sign-in* if you attend a tutoring session so we can track how many students are using the tutors.
