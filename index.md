@@ -20,6 +20,7 @@ Welcome to the website for CS 101, Fundamentals of Computer Science I, at York C
 * [Design Template](design-template.pdf) ([information and example](design/index.html))
 * [Reference Card](refcard.pdf)
 * [Resources](resources.html)
+* [Coding Practice](practices/index.html)
 * [Tutoring](tutoring.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 * [Practice Exams](practice/index.html)
