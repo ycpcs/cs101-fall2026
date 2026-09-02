@@ -11,7 +11,7 @@ You will always begin each practice exercise with an empty `main` function. If y
 
 ## Getting Started
 
-1. Download the provided ZIP file.
+1. Download the provided ZIP file: [Your Starter Code](starter.zip)
 2. Follow the same instructions from the lab to extract the ZIP file and place the practice folder in the correct location.
 3. Check the practice description to find the name of the file you need to open and edit.
 4. Write your code in that file.
@@ -33,8 +33,6 @@ If the compiler displays no errors or warnings, run your program with:
 ~~~
 
 Replace `xxx` with the name of your program. Finally, compare your program’s output with the expected output provided in the practice description.
-
-[Your Starter Code](starter.zip)
 
 Lecture | Practice Link | Solutions
 ---------- | ---- | ---- 
