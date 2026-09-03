@@ -52,7 +52,7 @@ The object travelled 43.1 feet or 13.1 meters.
 The object reached a height of 12.8 feet or 3.9 meters.
 </pre>
 
-The time field should have two decimal places of precision. All of the velocity and distance values should allow for up to four digits *in front* of the decimal point and one digit *after* the decimal point.
+Format all numbers as shown in the example run. Display the time and converted velocity values with two digits after the decimal point, and display all distance and height values with one digit after the decimal point. Refer to the example run and choose an appropriate data type for the launch angle.
 
 When you are ready to compile the program, in the Cygwin window type the command
 
