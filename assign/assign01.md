@@ -58,7 +58,7 @@ When you are ready to compile the program, in the Cygwin window type the command
 
     make
 
-when you are ready to compile the program. To run the program, run the command
+After you successfully compile the program, to run the program, run the command
 
     ./Projectile.exe
 
