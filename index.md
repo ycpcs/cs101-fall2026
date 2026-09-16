@@ -23,7 +23,7 @@ Welcome to the website for CS 101, Fundamentals of Computer Science I, at York C
 * [Coding Practice](practices/index.html)
 * [Tutoring](tutoring.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
-* [Practice Exams](practice/index.html)
+* [Practice Exams](exams/index.html)
 
 
 ## News
