@@ -84,6 +84,16 @@ while (keep_going == 1) {
 }
 {% endhighlight %}
 
+Note that there is a space before %c:
+
+<pre>scanf(" %c", &answer);</pre>
+
+When the user presses Enter, a newline character ('\n') may be left in the input. Normally, %c reads the next character—even if it is this leftover newline.
+
+The space tells scanf to skip spaces, tabs, and newline characters before reading the character. This ensures the program waits for the user to enter y or n.
+
+Easy way to remember: The space before %c clears any whitespace before reading the character.
+
 Triangular loops
 ================
 
