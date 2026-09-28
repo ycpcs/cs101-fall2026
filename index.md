@@ -33,6 +33,7 @@ Welcome to the website for CS 101, Fundamentals of Computer Science I, at York C
 * **Sept 21** &mdash; [Assignment 2 Milestone 1](assign/assign02.html) **Milestone 1 Code Due to** [Marmoset](https://cs.ycp.edu/marmoset) **by 11:59pm**.
 * **Sept 22** &mdash; [Assignment 2 Milestone 2](assign/assign02.html) **Milestone 2 Design Artifact Due in class.**
 * **Sept 28** &mdash; [Assignment 2 Milestone 2](assign/assign02.html) **Milestone 2 Code Due to** [Marmoset](https://cs.ycp.edu/marmoset) **by 11:59pm**.
+* **Oct 5** &mdash; [Assignment 3 Milestone 1](assign/assign03.html) **Milestone 1 Code Due to** [Marmoset](https://cs.ycp.edu/marmoset) **by 11:59pm**.
 
   
 <!--
