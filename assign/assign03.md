@@ -6,25 +6,25 @@ title: "Assignment 3: Falling Dominoes"
 **Due dates**:
 
 * Milestone 1:
-    * Code due: **Monday, Oct 7th** by 11:59 PM
+    * Code due: **Monday, Oct 5th** by 11:59 PM
 * Milestone 2:
-    * Design due: **Thursday, Oct 10th** in class
-    * Code due: **Thursday, Oct 17th** by 11:59 PM
+    * Design due: **Thursday, Oct 8th** in class
+    * Code due: **Thursday, Oct 15th** by 11:59 PM
 
 Getting Started
 ===============
 
-Start by downloading [CS101\_Assign03\_Fa24.zip](CS101_Assign03_Fa24.zip), saving it in the directory **H:\\CS101**. In Windows File Explorer, navigate to **H:\\CS101**, right click on **CS101\_Assign03\_Fa24.zip**, and select **Extract All** to create a **CS101\_Assign03\_Fa24** directory with the assignment files.
+Start by downloading [CS101\_Assign03\_Fa26.zip](CS101_Assign03_Fa26.zip), saving it in the directory **H:\\CS101**. In Windows File Explorer, navigate to **H:\\CS101**, right click on **CS101\_Assign03\_Fa26.zip**, and select **Extract All** to create a **CS101\_Assign03\_Fa26** directory with the assignment files.
 
 Start a **Cygwin Bash Shell** and run the following commands:
 
     cd h:
     cd CS101
-    cd CS101_Assign03_Fa24
+    cd CS101_Assign03_Fa26
 
 Using **Notepad++**, open the file
 
-> **H:\\CS101\\CS101\_Assign03\_Fa24\\Dominoes.cpp**
+> **H:\\CS101\\CS101\_Assign03\_Fa26\\Dominoes.cpp**
 
 You will add your code to this file.
 
@@ -135,7 +135,7 @@ Initial state:
 
 ### Deliverables for Milestone 1
 
-The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Monday, Oct 7th**.
+The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Monday, Oct 5th**.
 
 ### Submitting Milestone 1
 
@@ -215,9 +215,9 @@ Finished!
 
 ### Deliverables for Milestone 2
 
-The [design artifact](../design-template.pdf) for Milestone 2 is due at the beginning class on **Thursday, Oct 10th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
+The [design artifact](../design-template.pdf) for Milestone 2 is due at the beginning class on **Thursday, Oct 8th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
 
-The code for Milestone 2 should be submitted to Marmoset (using the command `make submit_ms2`) by the end of the day on **Thursday, Oct 17th**.
+The code for Milestone 2 should be submitted to Marmoset (using the command `make submit_ms2`) by the end of the day on **Thursday, Oct 15th**.
 
 ### Submitting Milestone 2
 
