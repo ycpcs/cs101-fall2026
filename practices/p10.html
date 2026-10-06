@@ -1,0 +1,166 @@
+---
+layout: default
+title: "Practice for L10"
+---
+
+# Largest Sum of a Contiguous 3×3 Square
+
+## Question
+
+You are given a 2D array of integers with at least 3 rows and 3 columns.
+
+- Find the contiguous 3×3 square with the largest sum.
+- Return its sum and the row and column of its top-left corner, using zero-based indexing.
+- If there is a tie, choose the smallest row, then the smallest column.
+
+## Example
+
+### Input
+
+```text
+1  1  1  0
+1  9  9  0
+1  9  9  0
+0  0  0  0
+```
+
+### Output
+
+```text
+Largest sum 41, Top-Left position: (0,0)
+```
+
+## Additional Test Cases
+
+### Test Case 1: Exactly 3×3
+
+#### Input
+
+```text
+1  2  3
+4  5  6
+7  8  9
+```
+
+#### Output
+
+```text
+Largest sum 45, Top-Left position: (0,0)
+```
+
+### Test Case 2: Largest Square at the Bottom-Right
+
+#### Input
+
+```text
+0  0  0  0
+0  2  2  2
+0  2  2  2
+0  2  2  2
+```
+
+#### Output
+
+```text
+Largest sum 18, Top-Left position: (1,1)
+```
+
+### Test Case 3: All Negative Values
+
+#### Input
+
+```text
+-9  -1  -1  -1
+-9  -1  -1  -1
+-9  -1  -1  -1
+-9  -9  -9  -9
+```
+
+#### Output
+
+```text
+Largest sum -9, Top-Left position: (0,1)
+```
+
+### Test Case 4: All Zeros
+
+#### Input
+
+```text
+0  0  0  0
+0  0  0  0
+0  0  0  0
+0  0  0  0
+```
+
+#### Output
+
+```text
+Largest sum 0, Top-Left position: (0,0)
+```
+
+### Test Case 5: Tie in the Same Row
+
+#### Input
+
+```text
+1  2  3  1
+1  2  3  1
+1  2  3  1
+```
+
+#### Output
+
+```text
+Largest sum 18, Top-Left position: (0,0)
+```
+
+### Test Case 6: Tie in Different Rows
+
+#### Input
+
+```text
+1  1  1
+2  2  2
+3  3  3
+1  1  1
+```
+
+#### Output
+
+```text
+Largest sum 18, Top-Left position: (0,0)
+```
+
+### Test Case 7: Rectangular Array
+
+#### Input
+
+```text
+0  0  1  2  3
+0  0  1  2  3
+0  0  1  2  3
+```
+
+#### Output
+
+```text
+Largest sum 18, Top-Left position: (0,2)
+```
+
+### Test Case 8: Mixed Positive and Negative Values
+
+#### Input
+
+```text
+-10   2   3   4
+-10   5   6   7
+-10   8   9  10
+-10 -10 -10 -10
+```
+
+#### Output
+
+```text
+Largest sum 54, Top-Left position: (0,1)
+```
