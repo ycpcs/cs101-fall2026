@@ -14,3 +14,8 @@ This page links to practice exams.
 [Exam 1b, Spring 2017](cs101-spring2017-exam01b.pdf), [Programming zipfile](CS101_Exam01b.zip)
 
 > [Exam 1b solution (written questions)](cs101-spring2017-exam01b-solution.pdf), [Exam 1b solution (programming questions)](CS101_Exam01b_Solution.zip)
+
+**Arrays and Functions**
+[Exam 3, Spring 2017](cs101-spring2017-exam03.pdf), [Programming zipfile](CS101_Exam03.zip)
+
+> [Exam 3 solution (written questions)](cs101-spring2017-exam03-solution.pdf), [Exam 1b solution (programming questions)](CS101_Exam03_Solution.zip)
