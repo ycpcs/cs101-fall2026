@@ -5,22 +5,22 @@ title: "Assignment 4: Roulette"
 
 **Due dates**:
 
-* Code due: **Monday, Oct 28th** by 11:59 PM
+* Code due: **Monday, Oct 26th** by 11:59 PM
 
 Getting Started
 ===============
 
-Start by downloading [CS101\_Assign04\_Fa24.zip](CS101_Assign04_Fa24.zip), saving it in the directory **H:\\CS101**. In Windows File Explorer, navigate to **H:\\CS101**, right click on **CS101\_Assign04\_Fa24.zip**, and select **Extract All** to create a **CS101\_Assign04\_Fa24** directory with the assignment files.
+Start by downloading [CS101\_Assign04\_Fa24.zip](CS101_Assign04_Fa24.zip), saving it in the directory **H:\\CS101**. In Windows File Explorer, navigate to **H:\\CS101**, right click on **CS101\_Assign04\_Fa24.zip**, and select **Extract All** to create a **CS101\_Assign04\_Fa26** directory with the assignment files.
 
 Start a **Cygwin Bash Shell** and run the following commands:
 
     cd h:
     cd CS101
-    cd CS101_Assign04_Fa24
+    cd CS101_Assign04_Fa26
 
 Using **Notepad++**, open the file
 
-> **H:\\CS101\\CS101\_Assign04\_Fa24\\Roulette.cpp**
+> **H:\\CS101\\CS101\_Assign04\_Fa26\\Roulette.cpp**
 
 You will add your code to this file.
 
