@@ -5,23 +5,23 @@ title: "Assignment 5: Structs"
 
 **Due dates**:
 
-* Code due: **Monday, Nov 11th** by 11:59 PM
+* Code due: **Monday, Nov 9th** by 11:59 PM
 
 Getting Started
 ===============
 
-Start by downloading [CS101\_Assign05\_Fa24.zip](CS101_Assign05_Fa24.zip), saving it in the directory **H:\\CS101**. In Windows File Explorer, navigate to **H:\\CS101**, right click on **CS101\_Assign05\_Fa24.zip**, and select **Extract All** to create a **CS101\_Assign05\_Fa24** directory with the assignment files.
+Start by downloading [CS101\_Assign05\_Fa24.zip](CS101_Assign05_Fa24.zip), saving it in the directory **H:\\CS101**. In Windows File Explorer, navigate to **H:\\CS101**, right click on **CS101\_Assign05\_Fa26.zip**, and select **Extract All** to create a **CS101\_Assign05\_Fa26** directory with the assignment files.
 
 Start a **Cygwin Bash Shell** and run the following commands:
 
     cd h:
     cd CS101
-    cd CS101_Assign05_Fa24
+    cd CS101_Assign05_Fa26
 
 Using **Notepad++**, open the files
 
-> **H:\\CS101\\CS101\_Assign05\_Fa24\\TaxTime.cpp**
-> **H:\\CS101\\CS101\_Assign05\_Fa24\\HitBox.cpp**
+> **H:\\CS101\\CS101\_Assign05\_Fa26\\TaxTime.cpp**
+> **H:\\CS101\\CS101\_Assign05\_Fa26\\HitBox.cpp**
 
 You will add your code to these files (separately).
 
