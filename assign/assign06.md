@@ -6,30 +6,30 @@ title: "Assignment 6: Chomp, Chomp, Chomp!"
 **Due dates**:
 
 * Milestone 1:
-    * Code due: **Friday, Nov 22nd** by 11:59 PM
+    * Code due: **Friday, Nov 20nd** by 11:59 PM
 * Milestone 2:
-    * Code due: **Friday, Dec 6th** by 11:59 PM
+    * Code due: **Friday, Dec 4th** by 11:59 PM
 
 Getting Started
 ===============
 
-Start by downloading [CS101\_Assign06\_Fa24.zip](CS101_Assign06_Fa24.zip), saving it in the directory **H:\\CS101**. In Windows File Explorer, navigate to **H:\\CS101**, right click on **CS101\_Assign06\_Fa24.zip**, and select **Extract All** to create a **CS101\_Assign06\_Fa24** directory with the assignment files.
+Start by downloading [CS101\_Assign06\_Fa26.zip](CS101_Assign06_Fa26.zip), saving it in the directory **H:\\CS101**. In Windows File Explorer, navigate to **H:\\CS101**, right click on **CS101\_Assign06\_Fa26.zip**, and select **Extract All** to create a **CS101\_Assign06\_Fa26** directory with the assignment files.
 
 Start a **Cygwin Bash Shell** and run the following commands:
 
     cd h:
     cd CS101
-    cd CS101_Assign06_Fa24
+    cd CS101_Assign06_Fa26
 
 You will add your code to these files:
 
-> **H:\\CS101\\CS101\_Assign06\_Fa24\\Scene.h**
+> **H:\\CS101\\CS101\_Assign06\_Fa26\\Scene.h**
 
-> **H:\\CS101\\CS101\_Assign06\_Fa24\\Scene.cpp**
+> **H:\\CS101\\CS101\_Assign06\_Fa26\\Scene.cpp**
 		
-> **H:\\CS101\\CS101\_Assign06\_Fa24\\Player.h**
+> **H:\\CS101\\CS101\_Assign06\_Fa26\\Player.h**
 
-> **H:\\CS101\\CS101\_Assign06\_Fa24\\Player.cpp**
+> **H:\\CS101\\CS101\_Assign06\_Fa26\\Player.cpp**
 
 *Note:* we will be using separate files for the game play, scene structure, and player structures. 
 
