@@ -6,7 +6,7 @@ title: "Assignment 6: Chomp, Chomp, Chomp!"
 **Due dates**:
 
 * Milestone 1:
-    * Code due: **Friday, Nov 20nd** by 11:59 PM
+    * Code due: **Friday, Nov 20th** by 11:59 PM
 * Milestone 2:
     * Code due: **Friday, Dec 4th** by 11:59 PM
 
