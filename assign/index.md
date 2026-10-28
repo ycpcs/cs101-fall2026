@@ -16,7 +16,7 @@ Assignment | File | Due date(s)
 [Assignment 3: Dominoes](assign03.html) | [CS101\_Assign03\_Fa26.zip](CS101_Assign03_Fa26.zip) | MS1 Code: Mon, Oct 5th<br>MS2 Design: Thur, Oct 8th<br>MS2 Code: Thur, Oct 15th
 [Assignment 4: Roulette](assign04.html) | [CS101\_Assign04\_Fa26.zip](CS101_Assign04_Fa26.zip) | Code: Mon, Oct 26th
 [Assignment 5: Structs](assign05.html) | [CS101\_Assign05\_Fa26.zip](CS101_Assign05_Fa26.zip) | Code: Mon, Nov 9th
-[Assignment 6: Chomp, Chomp, Chomp!](assign06.html) | [CS101\_Assign06\_Fa26.zip](CS101_Assign06_Fa26.zip) | MS1 Code: Fri, Nov 22nd<br>MS2 Code: Fri, Dec 4th
+[Assignment 6: Chomp, Chomp, Chomp!](assign06.html) | [CS101\_Assign06\_Fa26.zip](CS101_Assign06_Fa26.zip) | MS1 Code: Fri, Nov 20th<br>MS2 Code: Fri, Dec 4th
 
 <!--
 -->
