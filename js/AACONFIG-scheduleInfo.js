@@ -123,7 +123,7 @@ courseInfo.classPeriods = [
  		topic: new Topic("** Exam 2", "",[],[])
  	},
 	{
-		topic: new DoubleTopic("Lecture 13: Struct types", "lectures/lecture13.html","Lecture 14: Using structs with functions", "lectures/lecture14.html", "L13 & 14: example code", "lectures/L13&14.cpp", "Week10",["find_midpoint*"],[
+		topic: new TripleTopic("Lecture 13: Struct types", "lectures/lecture13.html","Lecture 14: Using structs with functions", "lectures/lecture14.html", "L13 & 14: example code", "lectures/L13&14.cpp", "Week10",["find_midpoint*"],[
 "https://cs.ycp.edu/cloudcoder/#exercise?c=36,p=2048"]),
 		lab: new DoubleNumberedLab(13, "Fancy Output", 14, "Boing!")
 	},
