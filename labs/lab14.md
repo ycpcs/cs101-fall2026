@@ -89,6 +89,8 @@ struct Scene {
 
 The **x** and **y** fields maintain the current column and row of the ball, and the **dx** and **dy** fields maintain the current direction (1 for forward, -1 for backward) for the **x** and **y** directions.
 
+You can call **cons_get_screen_height()** and **cons_get_screen_width()** functions to obtain the height and width of your scene (window).
+
 When you are ready to compile the program, in the Cygwin window type the command
 
     make
