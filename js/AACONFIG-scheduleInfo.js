@@ -128,7 +128,7 @@ courseInfo.classPeriods = [
 		lab: new DoubleNumberedLab(13, "Fancy Output", 14, "Boing!")
 	},
 	{
-		topic: new Topic("Lecture 15: Pointers, reference parameters", "lectures/lecture15.html","",[],[]),
+		topic: new DoubleTopic("Lecture 15: Pointers, reference parameters", "lectures/lecture15.html","L15: example code", "lectures/L15.zip", "",[],[]),
 		lab: new NumberedLab(15, "Boing! revisited")
 	},
 	{
