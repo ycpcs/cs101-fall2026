@@ -39,6 +39,8 @@ Welcome to the website for CS 101, Fundamentals of Computer Science I, at York C
 * **Oct 20** &mdash; [A Quick Survey](https://ycp.co1.qualtrics.com/jfe/form/SV_abErUDKP6PjszWu)
 * **Oct 26** &mdash; [Assignment 4](assign/assign04.html) **Code Due to** [Marmoset](https://cs.ycp.edu/marmoset) **by 11:59pm**.
 * **Nov 9** &mdash; [Assignment 5](assign/assign05.html) **Code Due to** [Marmoset](https://cs.ycp.edu/marmoset) **by 11:59pm**.
+* **Generate a Maze**: &mdash; [Starter Code](practices/maze.zip)
+* **Nov 20** &mdash; [Assignment 6 Milestone 1](assign/assign06.html) **Code Due to** [Marmoset](https://cs.ycp.edu/marmoset) **by 11:59pm**.
 
   
 <!--
