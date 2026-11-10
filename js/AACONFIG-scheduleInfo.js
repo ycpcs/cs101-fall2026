@@ -132,7 +132,7 @@ courseInfo.classPeriods = [
 		lab: new NumberedLab(15, "Boing! revisited")
 	},
 	{
-		topic: new DoubleTopic("Lecture 16: Pointers to structs", "lectures/lecture16.html", "L15: example code", "lectures/L15.zip", "Week11",["AddEmUp*", "area of Rectangle*", "quadrant*"],[
+		topic: new DoubleTopic("Lecture 16: Pointers to structs", "lectures/lecture16.html", "L16: example code", "lectures/L16.zip", "Week11",["AddEmUp*", "area of Rectangle*", "quadrant*"],[
 "https://cs.ycp.edu/cloudcoder/#exercise?c=36,p=2003", 
 "https://cs.ycp.edu/cloudcoder/#exercise?c=36,p=2004", 
 "https://cs.ycp.edu/cloudcoder/#exercise?c=36,p=2030"]),
