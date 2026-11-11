@@ -139,7 +139,7 @@ courseInfo.classPeriods = [
 		lab: new NumberedLab(16, "Boing! with pointers")
 	},
 	{
-		topic: new Topic("Lecture 17: Composition of structs", "lectures/lecture17.html","",[],[]),
+		topic: new DoubleTopic("Lecture 17: Composition of structs", "lectures/lecture17.html",  "L17: example code", "lectures/L17.zip", "",[],[]),
 		lab: new NumberedLab(17, "Mini Golf")
 	},
 	{
