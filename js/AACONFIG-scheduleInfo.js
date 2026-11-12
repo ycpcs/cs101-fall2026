@@ -143,7 +143,7 @@ courseInfo.classPeriods = [
 		lab: new NumberedLab(17, "Mini Golf")
 	},
 	{
-		topic: new Topic("Lecture 18: Arrays and functions", "lectures/lecture18.html","Week13",["ArraySum*", "IsAscending*", "countOdd*", "Min Array Entry"],[
+		topic: new DoubleTopic("Lecture 18: Arrays and functions", "lectures/lecture18.html", "L18: example code", "lectures/L18.zip", "Week13",["ArraySum*", "IsAscending*", "countOdd*", "Min Array Entry"],[
 "https://cs.ycp.edu/cloudcoder/#exercise?c=36,p=1998", 
 "https://cs.ycp.edu/cloudcoder/#exercise?c=36,p=2000", 
 "https://cs.ycp.edu/cloudcoder/#exercise?c=36,p=1999", 
