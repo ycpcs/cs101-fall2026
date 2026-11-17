@@ -286,14 +286,14 @@ function printCalendar(opts) {
 
     // this for-loop prints all the rows for the calendar
     for (var i=0; i < numItems; i++) {
-/*
+
         // this if-statement adds an extra 'empty' row between each week to make the week boundaries stand out a bit more
         // an extra boundary is NOT added after the last item unless there is a final exam that is taken during the final
         // exam period (i.e. not an in-class final).
         if (((i !== 0) && (days[calendar[i].date.getDay()] === courseInfo.classDays[0])) || (!courseInfo.inClassFinalExam && i === regularSemesterDays)) {
             document.write("<tr><td></td><td></td><td></td><td></td></tr>");
         }
-*/
+
         document.write("<tr>");
         document.write("<td>" + getDateString(calendar[i].date) + "</td>");
         document.write("<td>" + getTopicString(calendar[i].topic) + "</td>");
