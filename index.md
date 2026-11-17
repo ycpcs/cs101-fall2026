@@ -41,6 +41,8 @@ Welcome to the website for CS 101, Fundamentals of Computer Science I, at York C
 * **Nov 9** &mdash; [Assignment 5](assign/assign05.html) **Code Due to** [Marmoset](https://cs.ycp.edu/marmoset) **by 11:59pm**.
 * **Generate a Maze**: &mdash; [starter code](practices/maze.zip)
 * **Nov 20** &mdash; [Assignment 6 Milestone 1](assign/assign06.html) **Code Due to** [Marmoset](https://cs.ycp.edu/marmoset) **by 11:59pm**.
+* **Dec 4** &mdash; [Assignment 6 Milestone 2](assign/assign06.html) **Code Due to** [Marmoset](https://cs.ycp.edu/marmoset) **by 11:59pm**.
+* **Build a Tetris Game**: &mdash; [starter code](practices/tetris.zip)
 
   
 <!--
