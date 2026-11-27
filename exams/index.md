@@ -25,4 +25,8 @@ This page links to practice exams.
 
 > [Exam 3 solution (written questions)](cs101-spring2017-exam04-solution.pdf), [Exam 3 solution (programming questions)](CS101_Exam04_Solution.zip)
 
-**Additional questions are coming soon...**
+The following questions are more challenging and should only be attempted after you have completed and fully understood the practice exam and the practice questions for each lecture and are looking for additional practice to reinforce your knowledge.
+
+**Additional practice for Exam 3**
+[Practice](exam3_practice.pdf)
+> [solutions](sol_exam3_practice.pdf)
